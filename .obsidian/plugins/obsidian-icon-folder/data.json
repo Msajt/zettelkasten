@@ -32,10 +32,10 @@
   "Resources/Books": "FasBookBookmark",
   "Resources": "FasToolbox",
   "Resources/Images": "FasFileImage",
-  "Ztlkstn": "FasSitemap",
-  "Ztlkstn/Fleeting Notes": "FasPlaneUp",
-  "Ztlkstn/HUB's": "SiHubspot",
-  "Ztlkstn/Literature Notes": "FasBookOpen",
-  "Ztlkstn/Permanent Notes": "FasLock",
-  "Ztlkstn/Raw Notes": "FasPencil"
+  "Zettelkasten": "FasSitemap",
+  "Zettelkasten/Fleeting Notes": "FasPlaneUp",
+  "Zettelkasten/HUB's": "SiHubspot",
+  "Zettelkasten/Literature Notes": "FasBookOpen",
+  "Zettelkasten/Permanent Notes": "FasLock",
+  "Zettelkasten/Raw Notes": "FasPencil"
 }

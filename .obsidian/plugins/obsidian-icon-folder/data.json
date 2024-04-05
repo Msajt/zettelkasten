@@ -31,11 +31,11 @@
   "Templates": "FasFilePen",
   "Resources/Books": "FasBookBookmark",
   "Resources": "FasToolbox",
-  "Zettelkasten": "FasSitemap",
   "Resources/Images": "FasFileImage",
-  "Zettelkasten/Fleeting Notes": "FasPlaneUp",
-  "Zettelkasten/Raw Notes": "FasPencil",
-  "Zettelkasten/HUB's": "SiHubspot",
-  "Zettelkasten/Permanent Notes": "FasLock",
-  "Zettelkasten/Literature Notes": "FasBookOpen"
+  "Ztlkstn": "FasSitemap",
+  "Ztlkstn/Fleeting Notes": "FasPlaneUp",
+  "Ztlkstn/HUB's": "SiHubspot",
+  "Ztlkstn/Literature Notes": "FasBookOpen",
+  "Ztlkstn/Permanent Notes": "FasLock",
+  "Ztlkstn/Raw Notes": "FasPencil"
 }

@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiHubspot",
+      "FasSitemap",
+      "FasBookOpen",
+      "FasLock",
+      "FasNetworkWired"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Templates": "FasFilePen",
+  "Resources/Books": "FasBookBookmark",
+  "Resources": "FasToolbox",
+  "Zettelkasten": "FasSitemap",
+  "Resources/Images": "FasFileImage",
+  "Zettelkasten/Fleeting Notes": "FasPlaneUp",
+  "Zettelkasten/Raw Notes": "FasPencil",
+  "Zettelkasten/HUB's": "SiHubspot",
+  "Zettelkasten/Permanent Notes": "FasLock",
+  "Zettelkasten/Literature Notes": "FasBookOpen"
+}

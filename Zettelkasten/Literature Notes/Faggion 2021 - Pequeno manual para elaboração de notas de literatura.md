@@ -4,7 +4,7 @@
 - **Data:** 05-04-2024
 - **Keywords:** #zettelkasten #produtividade #manual 
 - **Notas Permanentes:**
-- **Notas de Literatura:**
+- **Notas de Literatura:** [[Faggion 2021 - O que eu chamo de "notas permanentes" e como as escrevo]]
 ---
 - #### O que são notas de literatura? 
 	-> Ideias ou informações vinda de uma fonte (não autoral)
@@ -37,4 +37,4 @@
 ---
 ## Referências
 
-FAGGION, A. 2021. **Pequeno manual para elaboração de notas de literatura**. Disponível em: https://andreafaggion.medium.com/pequeno-manual-para-elabora%C3%A7%C3%A3o-de-notas-de-literatura-dcdf28ab79c9
+FAGGION, A. 2021. **Pequeno manual para elaboração de notas de literatura**. Disponível em: <https://andreafaggion.medium.com/pequeno-manual-para-elabora%C3%A7%C3%A3o-de-notas-de-literatura-dcdf28ab79c9>

@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "810528defceb9c35",
+        "id": "597b86fa2686f363",
         "type": "tabs",
         "children": [
           {
-            "id": "1456a3cb536561c6",
+            "id": "5330ff36b7ab15a2",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.canvas"
+              }
             }
           }
         ]
@@ -142,20 +144,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1456a3cb536561c6",
+  "active": "12ec8e8062ff2a56",
   "lastOpenFiles": [
+    "Zettelkasten/Inbox/keep.txt",
+    "Untitled.canvas",
+    "Resources/Books/Código Limpo - Robert C Martin.md",
+    "Resources/Books/How to Take Smart Notes - Sönke Ahrens.md",
+    "Resources/Books/Digital Zettelkasten - David Kadavy.md",
+    "Templates/Book Template.md",
+    "Zettelkasten/Literature Notes/Kadavy 2021 - Digital Zettelkasten (Principles, Methods & Examples).md",
+    "Resources/Excalidraw/Kadavy 2021 - 2024-04-06 23.03.13.excalidraw.svg",
+    "Zettelkasten/Literature Notes/Faggion 2021 - Pequeno manual para elaboração de notas de literatura.md",
+    "Zettelkasten/Inbox",
+    "Resources/Excalidraw/Kadavy 2021 - 2024-04-06 23.03.13.excalidraw.md",
     "Zettelkasten/Fleeting Notes/Nota falando como organizar as pastas.md",
     "Zettelkasten/Fleeting Notes/Sprite do personagem de Lissa (Ranger Amarela).md",
     "Templates/Fleeting Note Template.md",
-    "Zettelkasten/Literature Notes/Kadavy 201- - Digital Zettelkasten (Principles, Methods & Examples).md",
     "Templates/Permanent Note Template.md",
     "Templates/Literature Note Template.md",
-    "Zettelkasten/Literature Notes/Faggion 2021 - Pequeno manual para elaboração de notas de literatura.md",
     "Zettelkasten/Literature Notes/Faggion 2021 - O que eu chamo de \"notas permanentes\" e como as escrevo.md",
     "backlinks.md",
-    "Excalidraw/Faggion 2021 - 2024-04-05 22.28.29.excalidraw.md",
+    "Resources/Excalidraw/Faggion 2021 - 2024-04-05 22.28.29.excalidraw.md",
     "Zettelkasten/HUB's/backlinks.md",
-    "Excalidraw",
+    "Resources/Excalidraw",
     "Zettelkasten/Raw Notes/keep.txt",
     "Zettelkasten/Permanent Notes/keep.txt",
     "Zettelkasten/Literature Notes/keep.txt",

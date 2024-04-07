@@ -33,7 +33,7 @@
 - #### Quando anotar?
 	-> Faça a leitura panorâmica, veja os conteúdos antecedentes do texto para ter uma visão geral do conteúdo
 	-> Realize uma leitura ativa, grifando partes importantes com um sistema de cores definido pelo usuário
-	-> Separe os momentos (faça a leitura ativa da seção determinada > tomar notas), utilize as partes marcadas importantes para realizar suas notas de leitura
+	-> Separe os momentos (faça a leitura ativa da seção determinada > tomar notas), utilize as partes marcadas importantes para realizar suas notas de leitura ^f7ee5c
 ---
 ## Referências
 

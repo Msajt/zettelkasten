@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasVoicemail",
+      "SiDiagramsdotnet",
       "SiHubspot",
       "FasSitemap",
-      "FasBookOpen",
-      "FasLock",
-      "FasNetworkWired"
+      "FasBookOpen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,7 @@
   "Zettelkasten/HUB's": "SiHubspot",
   "Zettelkasten/Literature Notes": "FasBookOpen",
   "Zettelkasten/Permanent Notes": "FasLock",
-  "Zettelkasten/Raw Notes": "FasPencil"
+  "Zettelkasten/Raw Notes": "FasPencil",
+  "Resources/Excalidraw": "SiDiagramsdotnet",
+  "Zettelkasten/Inbox": "FasVoicemail"
 }

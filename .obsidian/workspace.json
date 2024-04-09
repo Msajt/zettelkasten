@@ -11,8 +11,13 @@
             "id": "5330ff36b7ab15a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Raw Notes/Traversy Media 2017 - Git & Github Crash Course For Beginners.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d3d5cce091ea9d68",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Raw Notes/Traversy Media 2017 - Git & Github Crash Course For Beginners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Raw Notes/Traversy Media 2017 - Git & Github Crash Course For Beginners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Zettelkasten/Raw Notes/Traversy Media 2017 - Git & Github Crash Course For Beginners.md"
               }
             }
           }
@@ -144,8 +152,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12ec8e8062ff2a56",
+  "active": "5330ff36b7ab15a2",
   "lastOpenFiles": [
+    "Zettelkasten/Raw Notes/Traversy Media 2017 - Git & Github Crash Course For Beginners.md",
     "Zettelkasten/Inbox/keep.txt",
     "Untitled.canvas",
     "Resources/Books/Código Limpo - Robert C Martin.md",

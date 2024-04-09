@@ -1,0 +1,26 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "hsl(258, 88%, 66%)",
+      "directory": "Calendário"
+    },
+    {
+      "type": "local",
+      "color": "#1dcd58",
+      "directory": "Calendário/Estudos"
+    },
+    {
+      "type": "local",
+      "color": "#187fec",
+      "directory": "Calendário/Exercícios"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}

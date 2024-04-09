@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCalendarDays",
       "FasVoicemail",
       "SiDiagramsdotnet",
       "SiHubspot",
-      "FasSitemap",
-      "FasBookOpen"
+      "FasSitemap"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "Zettelkasten/Permanent Notes": "FasLock",
   "Zettelkasten/Raw Notes": "FasPencil",
   "Resources/Excalidraw": "SiDiagramsdotnet",
-  "Zettelkasten/Inbox": "FasVoicemail"
+  "Zettelkasten/Inbox": "FasVoicemail",
+  "Calendário": "FasCalendarDays"
 }

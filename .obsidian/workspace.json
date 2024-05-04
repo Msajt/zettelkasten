@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "597b86fa2686f363",
+        "id": "ace33043586e8662",
         "type": "tabs",
         "children": [
           {
-            "id": "7c0dd9c1b8c3c597",
+            "id": "34d17008e0a0a643",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
+                "file": "Zettelkasten/Raw Notes/Damasevicius et al. 2023 - Serious Games and Gamification in Healthcare, A Meta Review.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
+                "file": "Zettelkasten/Raw Notes/Damasevicius et al. 2023 - Serious Games and Gamification in Healthcare, A Meta Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
+                "file": "Zettelkasten/Raw Notes/Damasevicius et al. 2023 - Serious Games and Gamification in Healthcare, A Meta Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md"
+                "file": "Zettelkasten/Raw Notes/Damasevicius et al. 2023 - Serious Games and Gamification in Healthcare, A Meta Review.md"
               }
             }
           }
@@ -152,14 +152,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "12ec8e8062ff2a56",
+  "active": "34d17008e0a0a643",
   "lastOpenFiles": [
+    "Zettelkasten/Raw Notes/Damasevicius et al. 2023 - Serious Games and Gamification in Healthcare, A Meta Review.md",
+    "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
     "Pasted image 20240503233457.png",
     "Pasted image 20240503233446.png",
     "Pasted image 20240503233428.png",
     "Pasted image 20240503233351.png",
     "Zettelkasten/Raw Notes/Red Hat 2024 - O que é um webhook?.md",
-    "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
     "Resources/Excalidraw/Webhook 2024-04-09 20.06.06.excalidraw.md",
     "Resources/Excalidraw/Lógica disciplinas 2024-04-13 14.16.13.excalidraw.md",
     "Pasted Image 20240413151322_984.png",

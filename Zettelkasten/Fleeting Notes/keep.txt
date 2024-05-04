@@ -1,1 +1,22 @@
 keep folder
+id - 1284
+id - 1172
+
+Nível II - 1265 - Matricula foi ok
+Nível III - 1283 - Matricula foi ok
+Nível IV - 1279 - Matricula foi ok
+Nível V - 1278 (Matricula em branco, sem aba amarela salva) (Deu erro)
+		> Tenho que salvar o registro geral do aluno, recarregar a página para então dar certo
+		> Matriculou ok
+1° Ano - 1029
+2° Ano - 1275 - Matricula foi ok
+3° Ano - 1281 - Matricula foi ok
+4° Ano -
+5° Ano - 1277 - Matricula foi ok
+6° Ano - 1182 - Matricula foi ok
+7° Ano - 1229 - Matricula foi ok
+8° Ano -
+9° Ano -
+1° Série - 1166 - Matricula foi ok
+2° Série -
+3° Série -

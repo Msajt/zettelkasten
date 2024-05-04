@@ -8,54 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5330ff36b7ab15a2",
+            "id": "7c0dd9c1b8c3c597",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Raw Notes/Traversy Media 2017 - Git & Github Crash Course For Beginners.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc8753467038bdf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendário/Cronograma de horários.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d21297aac6b14b5",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "37d2806f1e25ed15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendário/(Every F,R,W,T,M) Acordar.md",
+                "file": "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d3d5cce091ea9d68",
@@ -122,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendário/Cronograma de horários.md",
+                "file": "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendário/Cronograma de horários.md",
+                "file": "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendário/Cronograma de horários.md"
+                "file": "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md"
               }
             }
           }
@@ -188,9 +152,19 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "cc8753467038bdf5",
+  "active": "12ec8e8062ff2a56",
   "lastOpenFiles": [
+    "Pasted image 20240503233457.png",
+    "Pasted image 20240503233446.png",
+    "Pasted image 20240503233428.png",
+    "Pasted image 20240503233351.png",
+    "Zettelkasten/Raw Notes/Red Hat 2024 - O que é um webhook?.md",
+    "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
+    "Resources/Excalidraw/Webhook 2024-04-09 20.06.06.excalidraw.md",
+    "Resources/Excalidraw/Lógica disciplinas 2024-04-13 14.16.13.excalidraw.md",
+    "Pasted Image 20240413151322_984.png",
     "Zettelkasten/Raw Notes/Traversy Media 2017 - Git & Github Crash Course For Beginners.md",
+    "Pasted Image 20240410162747_654.png",
     "Calendário/Cronograma de horários.md",
     "Calendário/Exercícios/(Every W,F,R,T,M) Academia.md",
     "Calendário/Estudos/(Every R,F,W,T,M) Estudo-Trabalho.md",
@@ -218,10 +192,6 @@
     "Templates/Fleeting Note Template.md",
     "Templates/Permanent Note Template.md",
     "Templates/Literature Note Template.md",
-    "Zettelkasten/Literature Notes/Faggion 2021 - O que eu chamo de \"notas permanentes\" e como as escrevo.md",
-    "backlinks.md",
-    "Resources/Excalidraw/Faggion 2021 - 2024-04-05 22.28.29.excalidraw.md",
-    "Zettelkasten/HUB's/backlinks.md",
     "Resources/Excalidraw",
     "Zettelkasten/Raw Notes/keep.txt",
     "Zettelkasten/Permanent Notes/keep.txt",

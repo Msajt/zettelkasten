@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "95bdc4369151df37",
+        "id": "c103f4976c8a94c4",
         "type": "tabs",
         "children": [
           {
-            "id": "2b62a3788dc5c845",
+            "id": "03e41e2669ac74ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Raw Notes/Damasevicius et al. 2023 - Serious Games and Gamification in Healthcare, A Meta Review.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d3d5cce091ea9d68",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Raw Notes/Damasevicius et al. 2023 - Serious Games and Gamification in Healthcare, A Meta Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Raw Notes/Damasevicius et al. 2023 - Serious Games and Gamification in Healthcare, A Meta Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/Raw Notes/Damasevicius et al. 2023 - Serious Games and Gamification in Healthcare, A Meta Review.md"
+              }
             }
           }
         ]
@@ -143,10 +153,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "2b62a3788dc5c845",
+  "active": "03e41e2669ac74ff",
   "lastOpenFiles": [
-    "Zettelkasten/Fleeting Notes/Reunião (06-05).md",
+    "Pasted image 20240509165724.png",
+    "Zettelkasten/Fleeting Notes/Reunião.md",
     "Zettelkasten/Raw Notes/Damasevicius et al. 2023 - Serious Games and Gamification in Healthcare, A Meta Review.md",
+    "Resources/Excalidraw/Drawing 2024-05-06 22.59.47.excalidraw.md",
+    "Zettelkasten/Fleeting Notes/Reunião (06-05).md",
     "Zettelkasten/Fleeting Notes/Organização da motivação.md",
     "Zettelkasten/Fleeting Notes/Nota falando como organizar as pastas.md",
     "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
@@ -181,9 +194,6 @@
     "Resources/Excalidraw/Kadavy 2021 - 2024-04-06 23.03.13.excalidraw.svg",
     "Zettelkasten/Literature Notes/Faggion 2021 - Pequeno manual para elaboração de notas de literatura.md",
     "Zettelkasten/Inbox",
-    "Resources/Excalidraw/Kadavy 2021 - 2024-04-06 23.03.13.excalidraw.md",
-    "Zettelkasten/Fleeting Notes/Sprite do personagem de Lissa (Ranger Amarela).md",
-    "Templates/Fleeting Note Template.md",
     "Resources/Excalidraw",
     "Zettelkasten/Raw Notes/keep.txt",
     "Zettelkasten/Permanent Notes/keep.txt",

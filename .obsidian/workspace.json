@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c103f4976c8a94c4",
+        "id": "9b51421bb5c31f7f",
         "type": "tabs",
         "children": [
           {
-            "id": "03e41e2669ac74ff",
+            "id": "8645127c683b33ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Raw Notes/Damasevicius et al. 2023 - Serious Games and Gamification in Healthcare, A Meta Review.md",
+                "file": "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d3d5cce091ea9d68",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Raw Notes/Damasevicius et al. 2023 - Serious Games and Gamification in Healthcare, A Meta Review.md",
+                "file": "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Raw Notes/Damasevicius et al. 2023 - Serious Games and Gamification in Healthcare, A Meta Review.md",
+                "file": "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Raw Notes/Damasevicius et al. 2023 - Serious Games and Gamification in Healthcare, A Meta Review.md"
+                "file": "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md"
               }
             }
           }
@@ -153,16 +152,26 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "03e41e2669ac74ff",
+  "active": "8645127c683b33ae",
   "lastOpenFiles": [
+    "Zettelkasten/Literature Notes/Pérez et al. 2023 - Serious Games and AI - Challenges and Opportunities for Computational Social Science.md",
+    "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
+    "Zettelkasten/Fleeting Notes/Organização da motivação.md",
+    "Zettelkasten/Literature Notes/Damasevicius et al. 2023 - Serious Games and Gamification in Healthcare, A Meta Review.md",
+    "Zettelkasten/Literature Notes/Wang et al. 2022 - Application of Serious Games in Health Care Scoping Review andBibliometric Analysis.md",
+    "Resources/Excalidraw/Drawing 2024-05-10 23.27.12.excalidraw.md",
+    "Resources/Excalidraw/Drawing 2024-05-10 23.27.12_0.excalidraw.md",
+    "Pasted image 20240510223131.png",
+    "Pasted image 20240510140713.png",
     "Pasted image 20240509165724.png",
+    "Pasted image 20240509165724 1.png",
+    "Resources/Excalidraw/Faggion 2021 - 2024-04-05 22.28.29.excalidraw.md",
+    "Zettelkasten/Literature Notes/Faggion 2021 - Pequeno manual para elaboração de notas de literatura.md",
+    "Zettelkasten/Literature Notes/Faggion 2021 - O que eu chamo de \"notas permanentes\" e como as escrevo.md",
     "Zettelkasten/Fleeting Notes/Reunião.md",
-    "Zettelkasten/Raw Notes/Damasevicius et al. 2023 - Serious Games and Gamification in Healthcare, A Meta Review.md",
     "Resources/Excalidraw/Drawing 2024-05-06 22.59.47.excalidraw.md",
     "Zettelkasten/Fleeting Notes/Reunião (06-05).md",
-    "Zettelkasten/Fleeting Notes/Organização da motivação.md",
     "Zettelkasten/Fleeting Notes/Nota falando como organizar as pastas.md",
-    "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
     "Pasted image 20240503233457.png",
     "Pasted image 20240503233446.png",
     "Pasted image 20240503233428.png",
@@ -186,13 +195,6 @@
     "Calendário",
     "Zettelkasten/Inbox/keep.txt",
     "Untitled.canvas",
-    "Resources/Books/Código Limpo - Robert C Martin.md",
-    "Resources/Books/How to Take Smart Notes - Sönke Ahrens.md",
-    "Resources/Books/Digital Zettelkasten - David Kadavy.md",
-    "Templates/Book Template.md",
-    "Zettelkasten/Literature Notes/Kadavy 2021 - Digital Zettelkasten (Principles, Methods & Examples).md",
-    "Resources/Excalidraw/Kadavy 2021 - 2024-04-06 23.03.13.excalidraw.svg",
-    "Zettelkasten/Literature Notes/Faggion 2021 - Pequeno manual para elaboração de notas de literatura.md",
     "Zettelkasten/Inbox",
     "Resources/Excalidraw",
     "Zettelkasten/Raw Notes/keep.txt",

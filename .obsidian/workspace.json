@@ -4,20 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "9b51421bb5c31f7f",
+        "id": "a8cdaa120d347d5a",
         "type": "tabs",
         "children": [
           {
-            "id": "8645127c683b33ae",
+            "id": "37825015549f8c78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
+                "file": "Zettelkasten/Literature Notes/Kula et al. 2021 - Factors affecting on-time delivery in large-scale agile software development.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Kula et al. 2021 - Factors affecting on-time delivery in large-scale agile software development"
+            }
+          },
+          {
+            "id": "725434a811d2e208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Literature Notes/Berntzen et al. 2022 - A taxonomy of inter-team coordination mechanisms in large-scale agile.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Berntzen et al. 2022 - A taxonomy of inter-team coordination mechanisms in large-scale agile"
+            }
+          },
+          {
+            "id": "1cc396fc8b12067f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Literature Notes/Alami et al. 2024 - The role of psychological safety in promotingsoftware quality in agile teams.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alami et al. 2024 - The role of psychological safety in promotingsoftware quality in agile teams"
             }
           }
         ]
@@ -40,7 +72,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -49,13 +83,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "laravel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,14 +99,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 337.5,
+    "collapsed": true
   },
   "right": {
     "id": "d3d5cce091ea9d68",
@@ -86,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
+                "file": "Zettelkasten/Literature Notes/Royce 1970 - Managing the development of large software systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +133,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Royce 1970 - Managing the development of large software systems"
             }
           },
           {
@@ -103,10 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
+                "file": "Zettelkasten/Literature Notes/Royce 1970 - Managing the development of large software systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Royce 1970 - Managing the development of large software systems"
             }
           },
           {
@@ -117,7 +160,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,15 +171,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md"
-              }
+                "file": "Zettelkasten/Literature Notes/Alami et al. 2024 - The role of psychological safety in promotingsoftware quality in agile teams.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Alami et al. 2024 - The role of psychological safety in promotingsoftware quality in agile teams"
+            }
+          },
+          {
+            "id": "90057466883e24b1",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "Dictionary"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -152,46 +210,46 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8645127c683b33ae",
+  "active": "37825015549f8c78",
   "lastOpenFiles": [
+    "Zettelkasten/Literature Notes/Alami et al. 2024 - The role of psychological safety in promotingsoftware quality in agile teams.md",
+    "Zettelkasten/Literature Notes/Kula et al. 2021 - Factors affecting on-time delivery in large-scale agile software development.md",
+    "Zettelkasten/Literature Notes/Berntzen et al. 2022 - A taxonomy of inter-team coordination mechanisms in large-scale agile.md",
+    "Resources/Excalidraw/Drawing 2024-12-10 11.30.18.excalidraw.md",
+    "Resources/Excalidraw/Drawing 2024-12-10 11.30.17.excalidraw.md",
+    "Zettelkasten/Literature Notes/Royce 1970 - Managing the development of large software systems.md",
+    "Zettelkasten/Raw Notes/Blender.md",
+    "Zettelkasten/Permanent Notes/Inicializando um ambiente com Laravel.md",
     "Zettelkasten/Literature Notes/Pérez et al. 2023 - Serious Games and AI - Challenges and Opportunities for Computational Social Science.md",
-    "Zettelkasten/Literature Notes/Checa & Bustillo 2019 - A review of immersive virtual reality serious games to enhance learning and training.md",
-    "Zettelkasten/Fleeting Notes/Organização da motivação.md",
     "Zettelkasten/Literature Notes/Damasevicius et al. 2023 - Serious Games and Gamification in Healthcare, A Meta Review.md",
-    "Zettelkasten/Literature Notes/Wang et al. 2022 - Application of Serious Games in Health Care Scoping Review andBibliometric Analysis.md",
+    "Zettelkasten/Raw Notes/Criando um projeto com vue3.md",
+    "Zettelkasten/Raw Notes/Inicializando um ambiente com Laravel.md",
+    "Zettelkasten/Raw Notes/Criando uma endpoint de API com Laravel.md",
+    "Zettelkasten/Raw Notes/Sanctum.md",
+    "Zettelkasten/Raw Notes/Invoke Method.md",
+    "Zettelkasten/Raw Notes/Laravel Resource.md",
+    "Zettelkasten/Raw Notes/Model, Migration, Factories, and Seeders.md",
+    "Templates/Permanent Note Template.md",
+    "Zettelkasten/Literature Notes/Faggion 2021 - O que eu chamo de \"notas permanentes\" e como as escrevo.md",
+    "Resources/Excalidraw/Mestrado 2024-05-14 14.36.42.excalidraw.md",
+    "Resources/Excalidraw/Lógica disciplinas 2024-04-13 14.16.13.excalidraw.md",
+    "Resources/Excalidraw/Kadavy 2021 - 2024-04-06 23.03.13.excalidraw.svg",
+    "Resources/Excalidraw/Kadavy 2021 - 2024-04-06 23.03.13.excalidraw.md",
+    "Resources/Excalidraw/Faggion 2021 - 2024-04-05 22.28.29.excalidraw.md",
+    "Resources/Excalidraw/Drawing 2024-05-21 14.16.45.excalidraw.md",
+    "Resources/Excalidraw/Drawing 2024-05-18 14.09.47.excalidraw.md",
     "Resources/Excalidraw/Drawing 2024-05-10 23.27.12.excalidraw.md",
-    "Resources/Excalidraw/Drawing 2024-05-10 23.27.12_0.excalidraw.md",
     "Pasted image 20240510223131.png",
     "Pasted image 20240510140713.png",
     "Pasted image 20240509165724.png",
     "Pasted image 20240509165724 1.png",
-    "Resources/Excalidraw/Faggion 2021 - 2024-04-05 22.28.29.excalidraw.md",
-    "Zettelkasten/Literature Notes/Faggion 2021 - Pequeno manual para elaboração de notas de literatura.md",
-    "Zettelkasten/Literature Notes/Faggion 2021 - O que eu chamo de \"notas permanentes\" e como as escrevo.md",
-    "Zettelkasten/Fleeting Notes/Reunião.md",
-    "Resources/Excalidraw/Drawing 2024-05-06 22.59.47.excalidraw.md",
-    "Zettelkasten/Fleeting Notes/Reunião (06-05).md",
-    "Zettelkasten/Fleeting Notes/Nota falando como organizar as pastas.md",
     "Pasted image 20240503233457.png",
     "Pasted image 20240503233446.png",
     "Pasted image 20240503233428.png",
     "Pasted image 20240503233351.png",
-    "Zettelkasten/Raw Notes/Red Hat 2024 - O que é um webhook?.md",
-    "Resources/Excalidraw/Webhook 2024-04-09 20.06.06.excalidraw.md",
-    "Resources/Excalidraw/Lógica disciplinas 2024-04-13 14.16.13.excalidraw.md",
     "Pasted Image 20240413151322_984.png",
-    "Zettelkasten/Raw Notes/Traversy Media 2017 - Git & Github Crash Course For Beginners.md",
-    "Pasted Image 20240410162747_654.png",
-    "Calendário/Cronograma de horários.md",
-    "Calendário/Exercícios/(Every W,F,R,T,M) Academia.md",
-    "Calendário/Estudos/(Every R,F,W,T,M) Estudo-Trabalho.md",
-    "Calendário/Estudos/(Every F,R,W,T,M) Estudo-Trabalho.md",
     "Calendário/Exercícios",
     "Calendário/Estudos",
-    "Calendário/(Every F,R,W,T,M) Acordar.md",
-    "(Every F,R,W,T,M) Acordar.md",
-    "(Every F,R,W,T,M) Academia.md",
-    "(Every ) Academia.md",
     "Calendário",
     "Zettelkasten/Inbox/keep.txt",
     "Untitled.canvas",

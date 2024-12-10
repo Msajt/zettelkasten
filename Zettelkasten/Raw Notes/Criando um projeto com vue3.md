@@ -1,0 +1,4 @@
+- Existe três possibilidades de se criar um projeto com _vue_
+	-> `npm vue@latest` - Eu particularmente gostei dessa primeira versão
+	-> `npm vite@latest`
+	-> Via web com o link: `vite.new/vue`

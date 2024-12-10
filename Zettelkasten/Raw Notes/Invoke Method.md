@@ -1,0 +1,1 @@
+Quando não há um controller que não satisfaz as condições pré-programadas, eu preciso criar um controller do tipo Invokable para poder atender a minha demanda específica

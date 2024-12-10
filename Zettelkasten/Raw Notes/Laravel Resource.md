@@ -1,0 +1,2 @@
+- Alternativa para exibir os responses em JSON
+- `php artisan make:resource ModelNameResource`

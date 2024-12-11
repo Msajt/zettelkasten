@@ -6,7 +6,10 @@ A taxonomy of inter-team coordination mechanisms in large-scale agile
 - **Notas Permanentes:**
 - **Notas de Literatura:**
 ---
-
+- Como complemento ao artigo anterior, esse trabalho tem como objetivo entender mais a fundo a coordenação de equipes muito grandes, por meio de um estudo de caso realizado por um ano e meio na empresa Entur foi possível verificar as ferramentas utilizadas e seu funcionamento.
+- Falar como foi coletado os dados
+- Os mecanismos utilizados para a coordenação
+- Framework TOPS
 ---
 ## Referências
 

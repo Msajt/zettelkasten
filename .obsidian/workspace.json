@@ -43,17 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Literature Notes/Alami et al. 2024 - The role of psychological safety in promotingsoftware quality in agile teams.md",
+                "file": "Zettelkasten/Literature Notes/Alami et al. 2024 - The role of psychological safety in promoting software quality in agile teams.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alami et al. 2024 - The role of psychological safety in promotingsoftware quality in agile teams"
+              "title": "Alami et al. 2024 - The role of psychological safety in promoting software quality in agile teams"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "right": {
     "id": "d3d5cce091ea9d68",
@@ -211,11 +210,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "725434a811d2e208",
+  "active": "1cc396fc8b12067f",
   "lastOpenFiles": [
-    "Zettelkasten/Literature Notes/Kula et al. 2021 - Factors affecting on-time delivery in large-scale agile software development.md",
     "Zettelkasten/Literature Notes/Berntzen et al. 2022 - A taxonomy of inter-team coordination mechanisms in large-scale agile.md",
-    "Zettelkasten/Literature Notes/Alami et al. 2024 - The role of psychological safety in promotingsoftware quality in agile teams.md",
+    "Zettelkasten/Literature Notes/Kula et al. 2021 - Factors affecting on-time delivery in large-scale agile software development.md",
+    "Zettelkasten/Literature Notes/Alami et al. 2024 - The role of psychological safety in promoting software quality in agile teams.md",
     "Resources/Excalidraw/Drawing 2024-12-10 11.30.18.excalidraw.md",
     "Resources/Excalidraw/Drawing 2024-12-10 11.30.17.excalidraw.md",
     "Zettelkasten/Literature Notes/Royce 1970 - Managing the development of large software systems.md",

@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "right": {
     "id": "d3d5cce091ea9d68",
@@ -235,9 +234,9 @@
   "active": "1cc396fc8b12067f",
   "lastOpenFiles": [
     "Zettelkasten/Literature Notes/Berntzen et al. 2022 - A taxonomy of inter-team coordination mechanisms in large-scale agile.md",
-    "Zettelkasten/Literature Notes/Kula et al. 2021 - Factors affecting on-time delivery in large-scale agile software development.md",
     "Zettelkasten/Permanent Notes/Texto crítico - Metodologia.md",
     "Zettelkasten/Literature Notes/Alami et al. 2024 - The role of psychological safety in promoting software quality in agile teams.md",
+    "Zettelkasten/Literature Notes/Kula et al. 2021 - Factors affecting on-time delivery in large-scale agile software development.md",
     "Zettelkasten/Permanent Notes/Inicializando um ambiente com Laravel.md",
     "Resources/Excalidraw/Drawing 2024-12-10 11.30.18.excalidraw.md",
     "Resources/Excalidraw/Drawing 2024-12-10 11.30.17.excalidraw.md",

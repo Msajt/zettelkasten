@@ -4,74 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "04184f21a8a74ea6",
+        "id": "bdae10488f8bca6a",
         "type": "tabs",
         "children": [
           {
-            "id": "37825015549f8c78",
+            "id": "0c6717d99a1b5fdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Literature Notes/Kula et al. 2021 - Factors affecting on-time delivery in large-scale agile software development.md",
+                "file": "Zettelkasten/Courses Notes/Single Page Application (SPA) - Vue e Laravel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kula et al. 2021 - Factors affecting on-time delivery in large-scale agile software development"
-            }
-          },
-          {
-            "id": "725434a811d2e208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Literature Notes/Berntzen et al. 2022 - A taxonomy of inter-team coordination mechanisms in large-scale agile.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Berntzen et al. 2022 - A taxonomy of inter-team coordination mechanisms in large-scale agile"
-            }
-          },
-          {
-            "id": "f19fb6f2e83f5dc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Literature Notes/Alami et al. 2024 - The role of psychological safety in promoting software quality in agile teams.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alami et al. 2024 - The role of psychological safety in promoting software quality in agile teams"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a8cdaa120d347d5a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1cc396fc8b12067f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Permanent Notes/Texto crítico - Metodologia.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Texto crítico - Metodologia"
+              "title": "Single Page Application (SPA) - Vue e Laravel"
             }
           }
         ]
@@ -231,11 +179,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "1cc396fc8b12067f",
+  "active": "0c6717d99a1b5fdf",
   "lastOpenFiles": [
-    "Zettelkasten/Literature Notes/Berntzen et al. 2022 - A taxonomy of inter-team coordination mechanisms in large-scale agile.md",
+    "Zettelkasten/Literature Notes/Satrio et al. 2022 - Blockchain integration for hospital information system management.md",
+    "Zettelkasten/Courses Notes/Single Page Application (SPA) - Vue e Laravel.md",
+    "Zettelkasten/Courses Notes",
     "Zettelkasten/Permanent Notes/Texto crítico - Metodologia.md",
     "Zettelkasten/Literature Notes/Alami et al. 2024 - The role of psychological safety in promoting software quality in agile teams.md",
+    "Zettelkasten/Literature Notes/Berntzen et al. 2022 - A taxonomy of inter-team coordination mechanisms in large-scale agile.md",
     "Zettelkasten/Literature Notes/Kula et al. 2021 - Factors affecting on-time delivery in large-scale agile software development.md",
     "Zettelkasten/Permanent Notes/Inicializando um ambiente com Laravel.md",
     "Resources/Excalidraw/Drawing 2024-12-10 11.30.18.excalidraw.md",
@@ -258,8 +209,6 @@
     "Resources/Excalidraw/Kadavy 2021 - 2024-04-06 23.03.13.excalidraw.svg",
     "Resources/Excalidraw/Kadavy 2021 - 2024-04-06 23.03.13.excalidraw.md",
     "Resources/Excalidraw/Faggion 2021 - 2024-04-05 22.28.29.excalidraw.md",
-    "Resources/Excalidraw/Drawing 2024-05-21 14.16.45.excalidraw.md",
-    "Resources/Excalidraw/Drawing 2024-05-18 14.09.47.excalidraw.md",
     "Pasted image 20240510223131.png",
     "Pasted image 20240510140713.png",
     "Pasted image 20240509165724.png",
@@ -278,7 +227,6 @@
     "Resources/Excalidraw",
     "Zettelkasten/Raw Notes/keep.txt",
     "Zettelkasten/Permanent Notes/keep.txt",
-    "Zettelkasten/Literature Notes/keep.txt",
-    "Zettelkasten/HUB's/keep.txt"
+    "Zettelkasten/Literature Notes/keep.txt"
   ]
 }

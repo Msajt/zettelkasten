@@ -103,3 +103,11 @@ use HasApiTokens, Notifiable;
 - Uso do v-model e v-on para controle das variáveis e botões
 - Uso de variáveis em _data()_ e _methods_
 - Filtrar possíveis erros de entrada
+- Foi usando o axios@0.18
+
+## Estilização dos responses do servidor
+- Geração de uma *session*
+- `sessionStorage.setItem('user', JSON.stringify(response.data))`
+- método *created()* em *LoginTemplate* (ciclo de vida da aplicação)
+- sessionStorage.getItem('user');
+- sessionStorage.clear();

@@ -111,3 +111,41 @@ use HasApiTokens, Notifiable;
 - método *created()* em *LoginTemplate* (ciclo de vida da aplicação)
 - sessionStorage.getItem('user');
 - sessionStorage.clear();
+
+## Tela de perfil
+- Método PUT
+- Biblioteca do Laravel pra determinação de regras
+- Sistema de migrações
+	- #### Adicionando migração:
+		- `php artisan make:migration add_image_table_users --table=users`
+		- `php artisan migrate`
+- Está um pouco bugado na questão de atualizar usuário
+- Salvando a imagem
+- Deu muitos problemas nessa parte do curso, não se é por conta da datação do curso ou algum erro que não estou percebendo
+
+## Dados do usuário na Tela Principal
+- Apenas pegando os dados salvos e colocando nos campos
+
+## Controllers (organização da api)
+- `php artisan make:controller UserController`
+- Passar o que fiz dentro das funções em api e organizá-las dentro de UserController
+
+## Configurando CORS no Laravel
+- laravel-cors
+- composer require barryvdh/laravel-cors:0.11.0
+- php artisan vendor:publish --provider="Barryvdh\Cors\ServiceProvider"
+
+## Modelando o banco de dados
+- Users (já existe)
+- Contents (id, user_id, title, text, image, link, date)
+- Friends (user_id, friend_id)
+- Likes (user_id, content_id)
+- Comments (id, content_id, user_id, text, date)
+- #### Modelos e migrações
+	- php artisan make:model Content -m
+	- php artisan make:model Comment -m
+	- php artisan make:migration create_friends_table --create=friends
+	- php artisan make:migration create_likes_table --create=likes
+- $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
+- php artisan migrate - rodar tabelas criadas
+

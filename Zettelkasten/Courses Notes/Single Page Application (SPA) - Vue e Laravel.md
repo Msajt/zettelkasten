@@ -149,3 +149,12 @@ use HasApiTokens, Notifiable;
 - $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
 - php artisan migrate - rodar tabelas criadas
 
+#### Vue.prototype.$http
+#### Vue.prototype.$urlAPI
+
+## Refatorando os retornos da API no Laravel
+
+## Formulário de publicação de conteúdo
+- php artisan make:controller ContentController 
+
+

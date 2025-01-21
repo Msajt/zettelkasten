@@ -155,6 +155,53 @@ use HasApiTokens, Notifiable;
 ## Refatorando os retornos da API no Laravel
 
 ## Formulário de publicação de conteúdo
-- php artisan make:controller ContentController 
+- php artisan make:controller ContentController
 
+## VueX
+- Padrão de gerenciamento de estados, centralizando os registros
+- `vue import Vuex from 'vuex'; Vue.use(Vuex)`
 
+## Conteúdo dinâmico
+- v-for
+- No laravel Accessor (Getters) e Mutators (Setters)
+```php
+public function getImageAttribute($value){
+	return asset($value);
+}
+```
+
+## Corrigindo erro no cadastro do perfil
+- Checar possíveis erros no código na parte da foto
+
+## Listando conteúdo no vuex
+- Métodos computados executam quando está carregando
+- Métodos (methods) só quando o usuário for executar a função
+
+## Paginação com Vue e Laravel
+- next_page_url
+
+## Diretiva para função de scroll infinito
+
+## Deletando dados com o Tinker
+```php
+php artisan tinker
+
+App\User::all();
+
+$listContents = App\Contents::all()
+
+App\Content::find(id)->delete();
+```
+
+## Rota da página de usuário
+- this.$route.params.id
+
+## Slug
+
+## Amigos
+id_user
+id_friend
+
+### watch
+### dd()
+### whereIn('id', [1, 2, 3])
